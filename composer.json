@@ -1,0 +1,16 @@
+{
+    "name": "atiksoftware/php-class-imgmodel",
+    "description": "PHP Image editor. Create-resize-draw vs.",
+    "authors": [
+        {
+            "name": "Atiksotware Corporation",
+            "email": "atiksoftware@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"psr-4" : {
+			"Atiksoftware\\IMGModel\\" : "src"
+		}
+	}
+}
